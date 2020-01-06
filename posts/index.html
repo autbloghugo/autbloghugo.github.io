@@ -3,17 +3,17 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  <meta property="og:title" content=" My New Hugo Site" />
+  <meta property="og:title" content=" Posts &middot;  My New Hugo Site" />
   
   <meta property="og:site_name" content="My New Hugo Site" />
-  <meta property="og:url" content="http://example.org/" />
+  <meta property="og:url" content="http://example.org/posts/" />
   
   
   <meta property="og:type" content="website" />
   
 
   <title>
-     My New Hugo Site
+     Posts &middot;  My New Hugo Site
   </title>
 
   <link rel="stylesheet" href="http://example.org/css/bootstrap.min.css" />
@@ -23,8 +23,6 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" type="text/css">
   <link rel="shortcut icon" href="http://example.org/images/favicon.ico" />
   <link rel="apple-touch-icon" href="http://example.org/images/apple-touch-icon.png" />
-  
-  <link href="http://example.org/index.xml" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
   
 </head>
 <body>
@@ -48,8 +46,13 @@
 </div>
 
       
+      <a href="http://example.org/" class="btn-header btn-back hidden-xs">
+        <i class="fa fa-angle-left" aria-hidden="true"></i>
+        &nbsp;Home
+      </a>
       
-      <a href="http://example.org/index.xml" class="btn-header btn-subscribe hidden-xs">
+      
+      <a href="http://example.org/posts/index.xml" class="btn-header btn-subscribe hidden-xs">
         <i class="fa fa-rss" aria-hidden="true"></i>
         &nbsp;Subscribe
       </a>
@@ -58,9 +61,10 @@
   </header>
   <main class="container">
 
-<div class="article-list">
+<section class="article-list">
+  <h1>Posts</h1>
   
-  
+  <hr/>
   <article>
   <header>
     <h2><a href="http://example.org/posts/test-post/">Test Post</a></h2>
@@ -80,14 +84,7 @@
 </article>
 
   
-</div>
-<nav class="pagination" role="navigation">
-
-
-  <span class="page-number">Page 1 of 1</span>
-
-</nav>
-
+</section>
   </main>
   <footer class="container global-footer">
     <div class="copyright-note pull-left">

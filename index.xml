@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>РАС два три...</title>
     <link>http://blog2020.com.ua/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on РАС два три...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 22:52:45 +0200</lastBuildDate>
+    <language>ru-RU</language>
+    <copyright>&amp;copy; Copyright blog2020</copyright>
     
 	<atom:link href="http://blog2020.com.ua/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test Post</title>
-      <link>http://blog2020.com.ua/posts/test-post/</link>
-      <pubDate>Mon, 06 Jan 2020 22:52:45 +0200</pubDate>
-      
-      <guid>http://blog2020.com.ua/posts/test-post/</guid>
-      <description>test pop text</description>
-    </item>
     
   </channel>
 </rss>

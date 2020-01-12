@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog2020.com.ua/posts/welcome/</loc>
+    <lastmod>2020-01-13T00:33:41+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog2020.com.ua/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog2020.com.ua/posts/</loc>
+    <lastmod>2020-01-13T00:33:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +25,7 @@
   
   <url>
     <loc>http://blog2020.com.ua/</loc>
+    <lastmod>2020-01-13T00:33:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   

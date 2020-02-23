@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog2020.com.ua/posts/4-go-to-doctor/</loc>
+    <lastmod>2020-02-24T00:22:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog2020.com.ua/posts/3-all-same/</loc>
     <lastmod>2020-02-06T20:32:22+02:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://blog2020.com.ua/posts/</loc>
-    <lastmod>2020-02-06T20:32:22+02:00</lastmod>
+    <lastmod>2020-02-24T00:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +45,7 @@
   
   <url>
     <loc>http://blog2020.com.ua/</loc>
-    <lastmod>2020-02-06T20:32:22+02:00</lastmod>
+    <lastmod>2020-02-24T00:22:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
